@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="min_resume4:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/min_resume4_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="min_resume4" />
+        </element>
+      </element>
+      <element id="library" level="module" name="Sdk4J.jar" module-name="min_resume4" />
+      <element id="javaee-facet-resources" facet="min_resume4/web/Web" />
+    </root>
+  </artifact>
+</component>
